@@ -27,6 +27,7 @@
       <br>
       <br>
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorH06&rank_icon=percentile&theme=radical" alt="Hector's GitHub stats"/> -->
+      <p>🧮 Recent projects:</p>
       <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=qscheduler&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
       <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=ryoko&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
     </td>
