@@ -35,7 +35,7 @@
   <tr>
     <!-- About -->
     <td valign="top">
-      <h3>👯 Looking to collaborate on:</h3>
+      <h3>⛓️ Looking to collaborate on:</h3>
       <ul>
         <li>Frontend Development</li>
         <li>UX/UI Design</li>
