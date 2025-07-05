@@ -7,8 +7,8 @@
       <h3>🔭 What I'm working on:</h3>
       <ul>
         <li>Currently working at <strong>IntouchCX</strong></li>
-        <li>Developing <strong>Tacology</strong></li>
         <li>Developing <strong>Ryoko</strong></li>
+        <li>Developing <strong>Mapo</strong></li>
       </ul>
     </td>
     <!-- Learnin -->
@@ -28,11 +28,11 @@
       <br>
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorH06&rank_icon=percentile&theme=radical" alt="Hector's GitHub stats"/> -->
       <p>🧮 Recent projects:</p>
+      <a href="https://github.com/HectorH06/Mapo" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=mapo&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
       <a href="https://github.com/HectorH06/QScheduler" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=qscheduler&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
       </a>
-      <a href="https://github.com/HectorH06/Ryoko" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=HectorH06&repo=ryoko&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" alt="Repo"/>
       </a>
     </td>
   </tr>
